@@ -64,7 +64,7 @@ Welcome to my Data Science Projects Repository! This repository contains a colle
     - **Description:** The Cardiovascular Disease Prediction project aims to predict the occurrence of cardiovascular disease in patients based on their medical records and history.
     - **Technologies Used:** The notebooks uses Random Forest Classifier, Decision Tree Classifier and Logistic Regression
     - **Results:** The Logistic Regression performed well with an accuracy of 91.4%
-16. [Belarus Car Price Prediction]()
+16. [Belarus Car Price Prediction](https://github.com/CrytecFusion101/DS_projects/tree/main/Belarus%20Car%20Price%20Prediction)
     - **Description:** The Belarus Car Price Prediction project aims to predict the price of car in Belarus based on car features.
     - **Technologies Used:** The notebooks uses Decision Tree Regressor
     - **Results:** The Decision Tree Regressor gave an accuracy of 86.29%
