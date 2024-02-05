@@ -16,7 +16,7 @@ Welcome to my Data Science Projects Repository! This repository contains a colle
    -  **Description:** The project predicts the risk of heart stroke on studying the person's demographics and medical info
    - **Technologies Used:** The notebooks uses logistic regression, support vector machine, decision tree and knn
    - **Results:** The logistic regression, SVM and KNN performs the best with 93.8 % accuracy
-4. [House Price Prediction]()
+4. [House Price Prediction](https://github.com/CrytecFusion101/DS_projects/tree/main/House%20Price%20Prediction)
    -  **Description:** The project predicts the house price after studying the variables such as location, area, bredroom, bathroom count and many more.
    - **Technologies Used:** The notebooks uses Linear Regression, Ridge Regression and Random Forest Regressor
    - **Results:** The Random Forest Regressor performed best with accuracy of 87.89%
