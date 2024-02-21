@@ -20,7 +20,7 @@ Welcome to my Data Science Projects Repository! This repository contains a colle
    -  **Description:** The project predicts the house price after studying the variables such as location, area, bredroom, bathroom count and many more.
    - **Technologies Used:** The notebooks uses Linear Regression, Ridge Regression and Random Forest Regressor
    - **Results:** The Random Forest Regressor performed best with accuracy of 87.89%
-5. [Titanic Survival Prediction]()
+5. [Titanic Survival Prediction](https://github.com/CrytecFusion101/DS_projects/tree/main/Titanic%20Survival%20Prediction)
     -  **Description:** The project predicts the survival during the titanic disaster based on socio-economic measures
     - **Technologies Used:** The notebooks uses Descision Tree Classifier
     - **Results:** The Decision Tree Classifer performed well on the test dataset with an accuracy of 89.5%
