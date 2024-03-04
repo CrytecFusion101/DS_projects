@@ -24,7 +24,7 @@ Welcome to my Data Science Projects Repository! This repository contains a colle
     -  **Description:** The project predicts the survival during the titanic disaster based on socio-economic measures
     - **Technologies Used:** The notebooks uses Descision Tree Classifier
     - **Results:** The Decision Tree Classifer performed well on the test dataset with an accuracy of 89.5%
-6. [Diamond Price Prediction]()
+6. [Diamond Price Prediction](https://github.com/CrytecFusion101/DS_projects/tree/main/Diamond%20Price%20Prediction)
     -  **Description:** The project predicts the price (in US dollars) of the diamonds based on their features
     - **Technologies Used:** The notebooks uses Descision Tree Regressor and Random Forest Regressor
     - **Results:** The Decision Tree Regresor performed well on the test dataset with an accuracy of 96%
